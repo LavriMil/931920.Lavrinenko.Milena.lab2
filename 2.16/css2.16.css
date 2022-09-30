@@ -1,0 +1,28 @@
+.box1
+{
+color:#000000;
+background-color:#ffe5b4;
+padding: 2px;
+width: 200px;
+height: 100px;
+}
+
+.box2
+{
+background-color:#42aaff;
+border-style: solid;
+border-color: #008000;
+border-width: 3px;
+}
+
+.box3
+{
+color:#000000;
+background-color:#dbdbdb;
+width: 500px;
+margin-top: -20px;
+margin-bottom: -15px;
+}
+
+
+
