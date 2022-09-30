@@ -1,0 +1,11 @@
+.box
+{
+background-color:#0000ff;
+color:#ffffff;
+width: 550px;
+height: 411px;
+max-height: 120%;
+
+margin-left: auto;
+margin-right: auto;
+}
